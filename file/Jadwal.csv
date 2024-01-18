@@ -1,0 +1,11 @@
+Kelas,Hari,WaktuMulai,MataKuliah,Dosen,Semester,Ruangan,Tipe
+B,Kamis,15:00:00,IN262,72027,1,1,Teori
+A,Jumat,09:00:00,IN254,72025,1,1,Praktikum
+B,Rabu,21:00:00,IN215,72011,1,1,Praktikum
+B,Selasa,21:00:00,IN254,72016,2,1,Teori
+B,Jumat,14:00:00,IN211,72012,2,2,Teori
+A,Rabu,11:00:00,IN285,72016,3,3,-
+B,Senin,08:00:00,IN210,72009,2,1,Teori
+A,Senin,10:00:00,IN212,72016,3,1,Praktikum
+A,Selasa,21:00:00,IN213,72029,3,3,Praktikum
+A,Rabu,11:00:00,IN252,72010,3,2,Praktikum
